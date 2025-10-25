@@ -167,7 +167,6 @@ export default function Home() {
           </div>
         </section>
         {/* 2 cards */}
-<section><h1>Young's Favourite</h1></section>
         {/* DOWNLOAD APP SECTION */}
         <section className="flex flex-col-reverse md:flex-row items-center justify-between gap-8 px-6 md:px-20 my-10 text-center md:text-left">
           <div>
